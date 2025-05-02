@@ -68,7 +68,7 @@ This is an Interactive CLI that can be used to interact with the bot... Nothing 
 2. run yarn to install the dependencies
 
 ### Running locally
-**Note: Tell the bot "i want to generate" to trigger a conversation with the bot**
+**Note: Type "I want to generate" to trigger a conversation with the bot**
 
 Follow this step to run the project with the live server.
 
